@@ -1,1 +1,1 @@
-this is the temp repositories, which will be used for bookinfo_crawler project.
+this is the temp repositories, which is used for learning git with bookinfo_crawler code.
